@@ -2,6 +2,9 @@
 
 ## 参考文章
 - Python监控Github项目更新并自动下载：https://mp.weixin.qq.com/s/6TpCFPbd-Uqwo9TovblH5w
+- Github API: https://docs.github.com/en/rest?apiVersion=2022-11-28
+- 从Github存储库上次更新文件时获取：https://qa.1r1g.com/sf/ask/3513596901/
+- PyGithub: https://github.com/PyGithub/PyGithub
 
 ## 测试流程
 - 建立两个项目，一个做老项目，一个做新项目
